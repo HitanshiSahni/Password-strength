@@ -1,7 +1,7 @@
 # Password-strength
 
 ## 📌 Objective
-Understand what makes a password strong, create multiple passwords, and evaluate them using an online strength checker like [PasswordMeter.com](https://www.passwordmeter.com/).
+Understand what makes a password strong, create multiple passwords, and evaluate them using an online strength checker like [PasswordMeter.com](https://passwordmeter.com/).
 
 ---
 
@@ -23,7 +23,7 @@ Understand what makes a password strong, create multiple passwords, and evaluate
 
 ## 🛠 Tools Used
 
-- 🔗 [PasswordMeter.com](https://www.passwordmeter.com/)
+- 🔗 [PasswordMeter.com](https://passwordmeter.com/)
 
 ---
 
