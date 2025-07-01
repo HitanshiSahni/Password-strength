@@ -50,9 +50,3 @@ Understand what makes a password strong, create multiple passwords, and evaluate
 
 Password strength directly impacts how secure your accounts are. By understanding password structures and attack types, we can make smarter choices for digital safety.
 
----
-
-## 📎 Author
-
-**Your Name Here**  
-B.Tech 2nd Year — Cybersecurity Module  
